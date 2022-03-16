@@ -49,7 +49,7 @@
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18" alt="Linkedin" align="center"/> 
     &nbsp; LinkedIn:
-    <a href="https://www.linkedin.com/in/sarah-scardini-a93025223/" target="_blank" rel="noopener">Sarah Scardini</a>
+    <a href="https://www.linkedin.com/in/sarah-scardini" target="_blank" rel="noopener">Sarah Scardini</a>
   </p>
   <p>:mailbox: &nbsp; E-mail: sarahscardini@gmail.com</p>
 </div>
