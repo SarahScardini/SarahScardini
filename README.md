@@ -40,7 +40,7 @@
 <h2 align="center">I'm currently studying :wrench:</h2>
 
 <div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js"/>    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS"/>&nbsp;&nbsp;&nbsp; 
           
 </div>
 
