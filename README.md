@@ -3,8 +3,7 @@
 <h3 align="center"> My name is Sarah Scardini :) <img src="https://i.ibb.co/q7nMKNZ/avatar9.png" align="right" height="120"/></h3>
 
 <ul>
-  <li> :smile: I'm a Front-end Web Developer.</li>
-  <li> :heart_eyes: I'm a Full Stack Web Developer student at Kenzie Academy Brasil.</li>
+  <li> :heart_eyes: I'm a Full Stack Web Developer.</li>
   <li> :books: I have experience as an English Instructor.</li>
   <li> :house_with_garden: I currently live in Espírito Santo, Brasil.</li>
 </ul>
