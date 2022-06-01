@@ -1,6 +1,6 @@
-<h2 align="center">Hello! Welcome to my GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
+<h2 align="center">Hello! Welcome to my GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"/></h2>
 
-<h3 align="center"> My name is Sarah Scardini :) <img src="https://i.ibb.co/q7nMKNZ/avatar9.png" align="right" width="40px" height="40px"/></h3>
+<h3 align="center"> My name is Sarah Scardini :) <img src="https://i.ibb.co/q7nMKNZ/avatar9.png" align="right" height="120px"/></h3>
 
 <ul>
   <li> :heart_eyes: I'm a Full Stack Web Developer.</li>
