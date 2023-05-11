@@ -40,7 +40,7 @@
 <hr/>
 
 <h3 align="center"> Contact me: </h3>
-<img src="https://i.ibb.co/Zd6Yhnv/avatar10.png" height="240" align="left"/>
+<img src="https://i.ibb.co/Zd6Yhnv/avatar10.png" align="left"/>
 <br/>
 <br/>
 <br/>
