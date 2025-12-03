@@ -59,6 +59,12 @@
 <br/>
 <hr/>
 
+<!-- 
+
+It's broken
 <div align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=SarahScardini&count_private=true&include_all_commits=true&line_height=30&show_icons=true&theme=radical" />
+
+-->
+ 
 </div>
